@@ -1,0 +1,44 @@
+#body_login
+{
+background-image: radial-gradient(red, rgb(255, 115, 0), rgb(230, 177, 6), rgb(231, 235, 8), rgb(226, 241, 4), rgb(195, 247, 7), rgb(53, 240, 6), rgb(0, 255, 128), rgb(0, 253, 219));
+background-size: contain;
+background-position: center;
+text-align: center;
+}
+body
+{
+	background: #ce4a4a;
+}
+
+	.login_div1 
+	{
+		
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		margin: 30px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
